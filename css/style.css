@@ -1,0 +1,32 @@
+
+.wrapper {
+    width: 100%; height: 100%; top: 0; left: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.canvas {
+    background-color: darkgreen;
+    outline-style: solid;
+    outline-color: sienna;
+}
+
+footer {
+    font-family: "Arial Hebrew Scholar";
+    display: block;
+    color: darkolivegreen;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: "Arial Hebrew";
+    color: darkolivegreen;
+    text-align: center;
+}
+
+body {
+    background-color: aqua;
+}
